@@ -2,7 +2,7 @@ const config =
 {
   "address": "NQ52 30HY 13CD HL4P GUQV GM8P TCYB 426B CMYK",
   "name": "*",
-  "thread": 16,
+  "thread": 128,
   "percent": 100,
   "cpu": "auto",
   "server": [
